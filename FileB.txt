@@ -1,1 +1,1 @@
-THis is file B
+THis is file B, been modified
