@@ -1,1 +1,2 @@
 THis is file C
+Added some content for github tests
